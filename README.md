@@ -31,13 +31,13 @@ Follow these steps to get started with the react-vite-ui template:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dan5py/react-vite-ui.git
+   https://github.com/coodingdev/Healthcare-System.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd react-vite-ui
+   cd Healthcare-System
    ```
 
 3. Install the dependencies:
